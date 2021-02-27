@@ -9,3 +9,5 @@
 [5.冒泡排序](https://github.com/18888628835/leetcode/issues/5)
 
 [6.整数反转](https://github.com/18888628835/leetcode/issues/6)
+
+[7.回文数](https://github.com/18888628835/leetcode/issues/7)
