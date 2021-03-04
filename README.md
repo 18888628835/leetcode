@@ -17,3 +17,5 @@
 [9.有效的括号](https://github.com/18888628835/leetcode/issues/9)
 
 [10.罗马数字转整数](https://github.com/18888628835/leetcode/issues/10)
+
+[11.二进制中1的个数](https://github.com/18888628835/leetcode/issues/11)
